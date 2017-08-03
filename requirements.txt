@@ -1,3 +1,7 @@
 numpy
 pandas
+requests
+tabular
+scikit-learn
+seaborn
 h2o
