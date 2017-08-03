@@ -1,7 +1,7 @@
 numpy
 pandas
 requests
-tabular
+tabulate
 scikit-learn
 seaborn
 h2o
