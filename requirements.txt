@@ -5,3 +5,4 @@ tabular
 scikit-learn
 seaborn
 h2o
+h2o-py
